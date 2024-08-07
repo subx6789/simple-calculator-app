@@ -15,7 +15,7 @@ A simple calculator app built with React Native that performs basic arithmetic o
 **Clone the repository:**
 
 ```bash
- git clone https://github.com/your_username/simple-calculator-app.git
+ git clone https://github.com/subx6789/simple-calculator-app.git
  cd simple-calculator-app
 ```
 
